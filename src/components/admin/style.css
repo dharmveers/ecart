@@ -1,0 +1,4 @@
+.admin .card :hover{
+    background-color:rgb(219, 217, 213);
+    cursor: pointer;
+}
